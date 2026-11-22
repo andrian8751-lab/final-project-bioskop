@@ -37,3 +37,4 @@ final-project-bioskop/
 ## Cara Menjalankan Aplikasi
 1. Clone repository ini:
    ```bash
+   https://github.com/andrian8751-lab/final-project-bioskop
